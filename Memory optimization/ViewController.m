@@ -31,7 +31,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    _titles = @[@"Timer", @"Delegate", @"Block", @"Other"];
+    _titles = @[@"Timer", @"Delegate", @"Block", @"Image"];
     
     [self.view addSubview:self.tableView];
 }

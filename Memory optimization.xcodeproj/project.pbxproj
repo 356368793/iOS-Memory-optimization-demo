@@ -18,6 +18,21 @@
 		568B2566203FFD30006403F5 /* DelegateView.m in Sources */ = {isa = PBXBuildFile; fileRef = 568B2565203FFD30006403F5 /* DelegateView.m */; };
 		568B256A204002A7006403F5 /* BlockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 568B2569204002A7006403F5 /* BlockViewController.m */; };
 		568B256D20400452006403F5 /* BlockObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 568B256C20400452006403F5 /* BlockObject.m */; };
+		568B25712040124E006403F5 /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 568B25702040124E006403F5 /* ImageViewController.m */; };
+		568B257520401612006403F5 /* ImageCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 568B257320401612006403F5 /* ImageCollectionViewCell.m */; };
+		568B257620401612006403F5 /* ImageCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 568B257420401612006403F5 /* ImageCollectionViewCell.xib */; };
+		568B259C20401AF2006403F5 /* imageViewImage09.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259020401AF1006403F5 /* imageViewImage09.png */; };
+		568B259D20401AF2006403F5 /* imageViewImage06.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259120401AF1006403F5 /* imageViewImage06.png */; };
+		568B259E20401AF2006403F5 /* imageViewImage02.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259220401AF1006403F5 /* imageViewImage02.png */; };
+		568B259F20401AF2006403F5 /* imageViewImage04.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259320401AF1006403F5 /* imageViewImage04.png */; };
+		568B25A020401AF2006403F5 /* imageViewImage05.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259420401AF1006403F5 /* imageViewImage05.png */; };
+		568B25A120401AF2006403F5 /* imageViewImage11.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259520401AF1006403F5 /* imageViewImage11.png */; };
+		568B25A220401AF2006403F5 /* imageViewImage01.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259620401AF1006403F5 /* imageViewImage01.png */; };
+		568B25A320401AF2006403F5 /* imageViewImage08.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259720401AF1006403F5 /* imageViewImage08.png */; };
+		568B25A420401AF2006403F5 /* imageViewImage00.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259820401AF1006403F5 /* imageViewImage00.png */; };
+		568B25A520401AF2006403F5 /* imageViewImage03.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259920401AF1006403F5 /* imageViewImage03.png */; };
+		568B25A620401AF2006403F5 /* imageViewImage07.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259A20401AF1006403F5 /* imageViewImage07.png */; };
+		568B25A720401AF2006403F5 /* imageViewImage10.png in Resources */ = {isa = PBXBuildFile; fileRef = 568B259B20401AF1006403F5 /* imageViewImage10.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +56,23 @@
 		568B2569204002A7006403F5 /* BlockViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlockViewController.m; sourceTree = "<group>"; };
 		568B256B20400452006403F5 /* BlockObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BlockObject.h; sourceTree = "<group>"; };
 		568B256C20400452006403F5 /* BlockObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BlockObject.m; sourceTree = "<group>"; };
+		568B256F2040124E006403F5 /* ImageViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageViewController.h; sourceTree = "<group>"; };
+		568B25702040124E006403F5 /* ImageViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageViewController.m; sourceTree = "<group>"; };
+		568B257220401612006403F5 /* ImageCollectionViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ImageCollectionViewCell.h; sourceTree = "<group>"; };
+		568B257320401612006403F5 /* ImageCollectionViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ImageCollectionViewCell.m; sourceTree = "<group>"; };
+		568B257420401612006403F5 /* ImageCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ImageCollectionViewCell.xib; sourceTree = "<group>"; };
+		568B259020401AF1006403F5 /* imageViewImage09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage09.png; sourceTree = "<group>"; };
+		568B259120401AF1006403F5 /* imageViewImage06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage06.png; sourceTree = "<group>"; };
+		568B259220401AF1006403F5 /* imageViewImage02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage02.png; sourceTree = "<group>"; };
+		568B259320401AF1006403F5 /* imageViewImage04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage04.png; sourceTree = "<group>"; };
+		568B259420401AF1006403F5 /* imageViewImage05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage05.png; sourceTree = "<group>"; };
+		568B259520401AF1006403F5 /* imageViewImage11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage11.png; sourceTree = "<group>"; };
+		568B259620401AF1006403F5 /* imageViewImage01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage01.png; sourceTree = "<group>"; };
+		568B259720401AF1006403F5 /* imageViewImage08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage08.png; sourceTree = "<group>"; };
+		568B259820401AF1006403F5 /* imageViewImage00.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage00.png; sourceTree = "<group>"; };
+		568B259920401AF1006403F5 /* imageViewImage03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage03.png; sourceTree = "<group>"; };
+		568B259A20401AF1006403F5 /* imageViewImage07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage07.png; sourceTree = "<group>"; };
+		568B259B20401AF1006403F5 /* imageViewImage10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imageViewImage10.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,10 +108,12 @@
 				568B255C203FF1DF006403F5 /* 1.Timer */,
 				568B2560203FF9CE006403F5 /* 2.Delegate */,
 				568B25672040028D006403F5 /* 3.Block */,
+				568B256E20401230006403F5 /* 4.Image */,
 				568B2546203FF1DA006403F5 /* AppDelegate.h */,
 				568B2547203FF1DA006403F5 /* AppDelegate.m */,
 				568B2549203FF1DA006403F5 /* ViewController.h */,
 				568B254A203FF1DA006403F5 /* ViewController.m */,
+				568B2577204017BA006403F5 /* Res */,
 				568B254C203FF1DA006403F5 /* Main.storyboard */,
 				568B254F203FF1DA006403F5 /* Assets.xcassets */,
 				568B2551203FF1DA006403F5 /* LaunchScreen.storyboard */,
@@ -118,6 +152,37 @@
 				568B256C20400452006403F5 /* BlockObject.m */,
 			);
 			path = 3.Block;
+			sourceTree = "<group>";
+		};
+		568B256E20401230006403F5 /* 4.Image */ = {
+			isa = PBXGroup;
+			children = (
+				568B256F2040124E006403F5 /* ImageViewController.h */,
+				568B25702040124E006403F5 /* ImageViewController.m */,
+				568B257220401612006403F5 /* ImageCollectionViewCell.h */,
+				568B257320401612006403F5 /* ImageCollectionViewCell.m */,
+				568B257420401612006403F5 /* ImageCollectionViewCell.xib */,
+			);
+			path = 4.Image;
+			sourceTree = "<group>";
+		};
+		568B2577204017BA006403F5 /* Res */ = {
+			isa = PBXGroup;
+			children = (
+				568B259820401AF1006403F5 /* imageViewImage00.png */,
+				568B259620401AF1006403F5 /* imageViewImage01.png */,
+				568B259220401AF1006403F5 /* imageViewImage02.png */,
+				568B259920401AF1006403F5 /* imageViewImage03.png */,
+				568B259320401AF1006403F5 /* imageViewImage04.png */,
+				568B259420401AF1006403F5 /* imageViewImage05.png */,
+				568B259120401AF1006403F5 /* imageViewImage06.png */,
+				568B259A20401AF1006403F5 /* imageViewImage07.png */,
+				568B259720401AF1006403F5 /* imageViewImage08.png */,
+				568B259020401AF1006403F5 /* imageViewImage09.png */,
+				568B259B20401AF1006403F5 /* imageViewImage10.png */,
+				568B259520401AF1006403F5 /* imageViewImage11.png */,
+			);
+			path = Res;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -180,7 +245,20 @@
 			files = (
 				568B2553203FF1DA006403F5 /* LaunchScreen.storyboard in Resources */,
 				568B2550203FF1DA006403F5 /* Assets.xcassets in Resources */,
+				568B25A220401AF2006403F5 /* imageViewImage01.png in Resources */,
+				568B25A520401AF2006403F5 /* imageViewImage03.png in Resources */,
+				568B25A120401AF2006403F5 /* imageViewImage11.png in Resources */,
+				568B25A320401AF2006403F5 /* imageViewImage08.png in Resources */,
+				568B259C20401AF2006403F5 /* imageViewImage09.png in Resources */,
+				568B25A620401AF2006403F5 /* imageViewImage07.png in Resources */,
+				568B257620401612006403F5 /* ImageCollectionViewCell.xib in Resources */,
+				568B25A720401AF2006403F5 /* imageViewImage10.png in Resources */,
+				568B259F20401AF2006403F5 /* imageViewImage04.png in Resources */,
+				568B259D20401AF2006403F5 /* imageViewImage06.png in Resources */,
 				568B254E203FF1DA006403F5 /* Main.storyboard in Resources */,
+				568B25A020401AF2006403F5 /* imageViewImage05.png in Resources */,
+				568B259E20401AF2006403F5 /* imageViewImage02.png in Resources */,
+				568B25A420401AF2006403F5 /* imageViewImage00.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -193,10 +271,12 @@
 			files = (
 				568B255F203FF217006403F5 /* TimerViewController.m in Sources */,
 				568B254B203FF1DA006403F5 /* ViewController.m in Sources */,
+				568B257520401612006403F5 /* ImageCollectionViewCell.m in Sources */,
 				568B256D20400452006403F5 /* BlockObject.m in Sources */,
 				568B2563203FF9EB006403F5 /* DelegateViewController.m in Sources */,
 				568B2556203FF1DA006403F5 /* main.m in Sources */,
 				568B256A204002A7006403F5 /* BlockViewController.m in Sources */,
+				568B25712040124E006403F5 /* ImageViewController.m in Sources */,
 				568B2548203FF1DA006403F5 /* AppDelegate.m in Sources */,
 				568B2566203FFD30006403F5 /* DelegateView.m in Sources */,
 			);
